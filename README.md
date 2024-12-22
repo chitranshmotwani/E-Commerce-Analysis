@@ -1,4 +1,4 @@
-# Ecommerce-Analysis
+# E-Commerce-Analysis
 
 This repository contains a comprehensive analysis of e-commerce sales data to uncover trends, customer behaviors, and product performance. The project demonstrates data cleaning, exploratory data analysis (EDA), and visualization techniques to derive actionable insights.
 
@@ -30,11 +30,11 @@ The goal of this project is to:
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Ecommerce-Analysis.git
+   git clone https://github.com/chitranshmotwani/E-Commerce-Analysis.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Ecommerce-Analysis
+   cd E-Commerce-Analysis
    ```
 3. Install dependencies:
    ```bash
