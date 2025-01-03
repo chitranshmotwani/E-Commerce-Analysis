@@ -1,4 +1,4 @@
-# E-Commerce-Analysis
+# E-Commerce Sales & Sentiment Analysis
 
 This repository contains a comprehensive analysis of e-commerce sales data to uncover trends, customer behaviors, and product performance. The project demonstrates data cleaning, exploratory data analysis (EDA), and visualization techniques to derive actionable insights.
 
